@@ -1,0 +1,7 @@
+main: com.puddingkc.ReactionTest
+name: ReactionTest
+version: 1.0.1
+api-version: 1.16
+author: 'PuddingKC'
+commands:
+  reactiontest:
